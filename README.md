@@ -1,2 +1,2 @@
 # magali.effect.js library for raphaeljs
-Creating an easy library to animate in RaphaelJS (working on it).
+Creating an easy to use library for RaphaelJS animation (working on it).
