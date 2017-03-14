@@ -1,0 +1,28 @@
+{
+  "name": "raphael",
+  "description": "testing rapha",
+  "main": "app.js",
+  "authors": [
+    "Tony Medrano <info@tonymedrano.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "raphael",
+    "javascript",
+    "html",
+    "css",
+    "animation",
+    "etc"
+  ],
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "raphael": "^2.2.7"
+  }
+}

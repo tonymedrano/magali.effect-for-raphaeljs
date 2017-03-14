@@ -1,0 +1,14 @@
+{
+  "name": "raphael",
+  "version": "1.0.0",
+  "description": "testing rapha",
+  "main": "app.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "Tony Medrano <info@tonymedrano.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
